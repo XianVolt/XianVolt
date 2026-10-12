@@ -16,3 +16,6 @@ Just student learning some codes
 [![](https://komarev.com/ghpvc/?username=XianVolt&icon=7&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# My resume
+https://xianleeresume.netlify.app/
